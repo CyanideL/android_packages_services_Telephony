@@ -15,7 +15,10 @@
 -->
 
 <resources>
-  <string-array name="dialer_default_classes" translatable="false">
-      <item>com.android.dialer/com.android.dialer.DialtactsActivity</item>
-  </string-array>
+    <string-array name="dialer_default_classes" translatable="false">
+        <item>com.android.dialer/com.android.dialer.DialtactsActivity</item>
+    </string-array>
+
+    <!-- Flag whether to enable Proximity setting-->
+    <bool name="config_proximity_enable" translatable="false">true</bool>
 </resources>

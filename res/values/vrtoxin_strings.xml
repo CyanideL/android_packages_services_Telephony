@@ -24,4 +24,16 @@
     <string name="phone_number_summary">Set the phone number for this device</string>
     <string name="msisdn_alpha_tag" translatable="false">Voice Line 1</string>
 
+    <!-- Proximity sensor enable -->
+    <string name="proximity_mode_title">Enable proximity sensor</string>
+    <string name="proximity_on_summary">When in call, use proximity sensor to turn off screen</string>
+    <string name="proximity_off_summary">When in call, the screen will remain on</string>
+
+    <!-- Mobile network settings screen, setting check box name -->
+    <string name="national_roaming">National data roaming</string>
+    <!-- Mobile network settings screen, setting summary text when check box is selected -->
+    <string name="national_roaming_enable">Connect to data services when nationally roaming</string>
+    <!-- Mobile network settings screen, setting summary text when check box is clear -->
+    <string name="national_roaming_disable">Do not connect to data services when nationally roaming</string>
+
 </resources>
