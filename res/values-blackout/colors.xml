@@ -35,7 +35,7 @@
     <color name="manage_conference_secondary_text_color">#888888</color>
 
     <!-- Settings screen should use the same colors as the Dialer -->
-    <color name="phone_settings_background_color">@*android:color/material_grey_850</color>
+    <color name="phone_settings_background_color">@*android:color/material_grey_900</color>
     <!-- Action bar text color.  Ensure this stays in sync with Dialer actionbar_text_color. -->
     <color name="phone_settings_actionbar_text_color">#FFFFFF</color>
     <!-- Background color of action bars.  Ensure this stays in sync with Dialer
@@ -55,8 +55,8 @@
     <color name="dialer_dialpad_touch_tint">#330288d1</color>
     <color name="floating_action_button_touch_tint">#80ffffff</color>
 
-    <color name="network_operators_color_primary">@*android:color/material_grey_850</color>
-    <color name="network_operators_color_primary_dark">@*android:color/material_grey_850</color>
+    <color name="network_operators_color_primary">@*android:color/material_grey_900</color>
+    <color name="network_operators_color_primary_dark">@*android:color/material_grey_900</color>
 
     <color name="emergency_dialer_background">#ff263238</color>
 </resources>
